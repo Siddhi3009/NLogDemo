@@ -1,0 +1,2 @@
+2020-10-01 10:45:58.2096 DEBUG Debug Successful : Sum()
+2020-10-01 10:45:58.3658 INFO Sum method passed, Result11
