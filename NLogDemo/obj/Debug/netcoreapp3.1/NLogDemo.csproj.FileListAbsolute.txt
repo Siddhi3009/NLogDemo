@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.exe
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\GIT\9. NLog\NLogDemo\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
